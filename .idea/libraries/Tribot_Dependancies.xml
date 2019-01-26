@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Tribot_Dependancies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/Images.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot771.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/sentry-1.7.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot860.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot825.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/commons-lang3-3.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/jfoenix-8.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot840.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/jcommander.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/trident.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/xboot740.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/guava-26.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/TRiBot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/commons-configuration2-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/commons-collections4-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Dependencies/Tribot_Dependancies/substance.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

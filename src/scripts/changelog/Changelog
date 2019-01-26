@@ -1,0 +1,15 @@
+08 - 01 - 2018 - JACK
+    Locations Class
+    - Restructured class to have PUBLIC STATIC FINAL variables at top of class and methods at bottom.
+    - Implemented Arraylists for locations (COWS_ALL_LOCATIONS and CHICKENS_ALL_LOCATIONS) these will be populated with all tiles from each cow and chicken location.
+
+     Character Class
+    - Created Boolean isAtCows() which will return true or false if player is at COW location.
+    - Created Boolean isAtChickens() which will return true or false if player is at a CHICKEN location.
+    - Created Boolean isInventoryFull() which will return true or false if player has full inventory.
+
+09 - 01 - 2018 - JACK
+    Character Class
+    - Created Boolean isWalking() which will return true or false if player is moving and is walking
+    - Created Boolean isRunning() which will return true or false if player is moving and is running
+
