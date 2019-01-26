@@ -12,7 +12,7 @@ public class dax_auth
         {
             public DaxCredentials getDaxCredentials()
             {
-                return new DaxCredentials("sub_DPjcfqN4YkIxm8", "PUBLIC-KEY");
+                return new DaxCredentials("sub_EPYO7YFy0NBXns", "808fa4fe-67f6-4d7d-862c-8dbd730ad27b");
             }
         });
         
